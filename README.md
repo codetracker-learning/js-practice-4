@@ -24,7 +24,7 @@ $ cd YOUR-REPO-NAME
 3. Install packages
 
 ```
-$ npm install
+$ sudo npm install
 ```
 4. Create a new branch
 
